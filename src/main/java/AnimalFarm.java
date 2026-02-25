@@ -13,6 +13,7 @@ public class AnimalFarm {
 // Задание 1
 
     public HashMap<Animal, Integer> countedAnimals() {
-        HashMap<Animal, Integer> animalMap  = new HashMap<>();
+        HashMap<Animal, Integer> animalMap = new HashMap<>();
+        return animalMap;
     }
 }
